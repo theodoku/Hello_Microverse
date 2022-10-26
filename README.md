@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Description the project.
+> Hello Microverse
 
 
 ## Built With
@@ -18,23 +18,12 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+* Clone the repo created on my local machine with gitbash
+* Created a branch and went to github to refresh my repo
+* Use VSCode to create an Index.html and style.css file and copy to github
 
 
-To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
