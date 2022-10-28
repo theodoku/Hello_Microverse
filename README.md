@@ -16,7 +16,7 @@
 
 ## Authors
 
-👤 **Author1**
+👤 *Theo**
 
 - GitHub: [@theodoku](https://github.com/theodoku)
 - Twitter: [@dok_theo](https://twitter.com/Theo_dok)
